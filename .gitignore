@@ -1,0 +1,31 @@
+# Ficheiros compilados e Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ambientes Virtuais (Pastas onde instalas as libs)
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Distribuição / Instalação
+build/
+dist/
+*.egg-info/
+
+# Logs e Databases locais
+*.log
+*.sqlite
+
+# IDEs e Editores (Configurações do VS Code ou PyCharm)
+.vscode/
+.idea/
+
+# Ficheiros do Sistema Operativo (Mac/Windows)
+.DS_Store
+Thumbs.db
