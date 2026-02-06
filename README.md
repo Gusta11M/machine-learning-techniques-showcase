@@ -51,7 +51,7 @@ The repository is divided into three case studies:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/machine-learning-techniques-showcase.git
+git clone https://github.com/Gusta11M/machine-learning-techniques-showcase.git
 cd machine-learning-techniques-showcase
 ```
 
